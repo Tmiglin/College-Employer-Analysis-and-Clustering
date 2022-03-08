@@ -34,7 +34,6 @@ We can allude back to one of the previous visualizations to look at our resultin
 ## Use Case
 
 Now that the institutions are separated into clusters an application for these results can begin with someone identifying which state they would like to live in or teach within,  from there they can look up  an institution that will seem appealing to them, while looking at that school they can also look at other schools within the cluster according to the features that matter most to them, they should find that those schools are similar in those features and from there it might only be a few deciding feature’s for the employment Seeker to decide what institution they would like to work at. For example, an aspiring professor wants to work for a, institution that is within cluster 2.0, there are 13 other institutions
-![image](https://user-images.githubusercontent.com/62406236/157282324-d1aacae4-46b1-437f-814a-4c9e250b8346.png)
 
 
 
