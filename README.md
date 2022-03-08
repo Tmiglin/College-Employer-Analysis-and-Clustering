@@ -1,2 +1,2 @@
 # College-Employer-Analysis-and-Clustering
-This repository is being used for  practicum project for the Regis MSDS Program
+The goal of this project is to group together post-secondary institutions within the US
